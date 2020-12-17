@@ -1,5 +1,5 @@
-# Hebi-no-Sekigae_Assari
-へびの席替え あっさり
+# へびの席替え あっさり
+Hebi-no-Sekigae_Assari
 
 このソフトウェアは、MITライセンスのもとで公開されています。
 LICENSE.txtを見てください。
