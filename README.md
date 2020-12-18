@@ -8,6 +8,7 @@ LICENSE.txtを見てください。
 CUIなのであっさりしています。
 
 ## 使い方
+0. あなたのコンピューターにPythonはインストールされていますか？（LinuxやMacはプリインストールされています）<br>もしもされていないなら<https://www.python.jp/install/install.html>を見てください。
 1. ファイルをダウンロードする
 2. ダウンロードしたファイル "Hebi-no-Sekigae_Assari-main.zip" を解凍(展開)する
 3. 端末（ターミナル/コマンドプロント）を起動する
