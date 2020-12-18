@@ -7,10 +7,9 @@ LICENSE.txtを見てください。
 簡単に席替えができるソフトです。
 CUIなのであっさりしています。
 
-<h1>使い方</h1>
-  <p>Hebi-A_1.0.pyを実行してください。</p>
-    　<p>1　端末（ターミナル/コマンドプロント）を起動</p>
-      <p>2　cdコマンドを使い、Hebi-A_1.0.pyが保存してあるディレクトリに移動<br>Linuxでのコマンド入力例）$ cd /home/ユーザー名/ダウンロード/Hebi-no-Sekigae_Assari-main </p>
-      <p>3　$ python3 Hebi-A_1.0.py と入力。</p>
-      <p>Very easy!!</p>
-      
+## 使い方
+1. ファイルをダウンロードする
+2. ダウンロードしたファイル "Hebi-no-Sekigae_Assari-main.zip" を解凍(展開)する
+3. 端末（ターミナル/コマンドプロント）を起動する
+4. **cd**コマンドを使い、"Hebi-A_1.0.py"が保存してあるディレクトリに移動  Linuxでのコマンド入力例）**$ cd /home/ユーザー名/ダウンロード/Hebi-no-Sekigae_Assari-main**
+5. **$ python3 Hebi-A_1.0.py** と入力。     
