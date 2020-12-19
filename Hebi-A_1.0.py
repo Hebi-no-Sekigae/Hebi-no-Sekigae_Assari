@@ -1,6 +1,6 @@
 import random as ran #"random"を呼び出し、"ran"と省略できるようにする
 
-print(" へびの席替え あっさり Ver.1.0")
+print(" へびの席替え あっさり v1.0")
 print()
 
 number = int(input("人数を入力 ＞")) #席替えをする人数を聞く
