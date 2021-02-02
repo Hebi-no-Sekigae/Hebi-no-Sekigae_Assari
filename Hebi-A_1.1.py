@@ -14,7 +14,6 @@ for a in range(number): #配列「hai」に出席番号を代入
         hai.append("0"+str(b))
     else:
         hai.append(str(b))
-print(hai)
 
 yoko = int(input("横の席数を入力 ＞")) #横の席数を聞く
 tate = math.ceil(number / yoko) #縦の席数を計算する。
