@@ -5,7 +5,7 @@ print()
 
 number = int(input("人数を入力 ＞"))#席替えをする人数を聞く
 yoko = int(input("横の席数を入力 ＞"))#横の席数を聞く
-mae0 = input("前列優先者の出席番号を入力＞")#前列希望者の出席番号を聞く
+mae0 = input("前列優先者の出席番号を、コンマで区切って入力＞")#前列希望者の出席番号を聞く
 print()
 
 if mae0 != "":
@@ -64,3 +64,5 @@ for a in alal:
 print(end="\n")
 if b != 0:
     print(end="\n")
+    
+input("Enterで終了")
