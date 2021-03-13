@@ -5,7 +5,8 @@ Hebi-no-Sekigae_Assari
 LICENSE.txtを見てください
 
 簡単に席替えができるソフトです
-CUIなのであっさりしています
+CUIなのであっさりしています  
+
 ウェブサイト　https://hebi-no-sekigae.github.io/
 
 
