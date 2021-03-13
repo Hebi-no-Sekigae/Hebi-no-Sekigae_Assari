@@ -6,7 +6,7 @@ LICENSE.txtを見てください
 
 簡単に席替えができるソフトです
 CUIなのであっさりしています
-
+ウェブサイト　https://hebi-no-sekigae.github.io/
 
 
 ## 使い方
